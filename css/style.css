@@ -16,7 +16,7 @@ body {
 }
 
 .full-screen-container {
-  background-image: url("assets/bg-login.jpg");
+  background-image: url("/assets/bg-login.jpg");
   height: 100vh;
   width: 100vw;
   background-size: cover;
@@ -111,6 +111,7 @@ body {
   border-radius: .25em;
   outline: none;
   cursor: pointer;
+  color: white;
 }
 
 .login-button:hover,
